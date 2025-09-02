@@ -1,4 +1,4 @@
-📊 Productivity Pulse Dashboard – Workforce Burnout & Health Analytics
+# 📊 Productivity Pulse Dashboard – Workforce Burnout & Health Analytics
 
 <!-- optional custom banner -->
 
